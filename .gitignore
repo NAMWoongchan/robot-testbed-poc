@@ -7,3 +7,9 @@ coverage/
 *.log
 .DS_Store
 Thumbs.db
+node_modules/
+*-debug.log
+.firebaserc
+.firebase/
+.env*
+*service-account*.json
